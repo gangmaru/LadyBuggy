@@ -1,2 +1,2 @@
 # LadyBuggy
-Web programming that created a department-related website
+Web programming Team project that created a department-related website
